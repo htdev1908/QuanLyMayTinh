@@ -14,3 +14,5 @@ public class QuanLyMayTinh {
         System.out.println("Hello World!");
     }
 }
+
+//test
